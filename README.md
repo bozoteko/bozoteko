@@ -6,6 +6,6 @@
 <br>
 <br>
 </p>
-<p align="center"> <img src="https://gpvc.arturio.dev/TripleA26" alt="TripleA26" /> </p>
+<p align="center"> <img src="" alt="" /> </p>
 <br>
 </hr>
