@@ -2,7 +2,7 @@
 #### Current
 <hr>
 <p align="center">
-    <img src=https://lanyard.cnrad.dev/api/933241260972589076/>
+    <img src=https://lanyard.cnrad.dev/api/978886625562095617)](https://discord.com/users/978886625562095617>
     <!-- GitHub Stats -->
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=bozoteko&theme=radical&show_icons=true&count_private=true">
